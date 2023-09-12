@@ -1,4 +1,4 @@
-
+##pasting biden inaugural speech and eisenhower since speech dataset didn't include
 biden <- data.frame(Date = "2020-01-20", President = "Joe Biden", Party = "Democratic", Speech.Title = "Inaugural Address", Transcript = "Chief Justice Roberts, Vice President Harris, Speaker Pelosi, Leader Schumer, Leader McConnell, Vice President Pence, distinguished guests, and my fellow Americans.
 This is America’s day.
 
