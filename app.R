@@ -121,6 +121,9 @@ presidents_list <- unique(token$President)
 
 ui <- fluidPage(
   titlePanel("Sentiments of Presidents' Inaugural Speeches"),
+  helpText( HTML(
+    '<a id = "yes" href="https://github.com/skanji1004/USInauguralSentiments" target="_blank"> Code </a>'),
+    align = "right"),
   tags$head(tags$style(
     HTML(
       "
