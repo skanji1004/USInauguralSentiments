@@ -2,7 +2,7 @@
 1. Download respository
  ```
  library(shiny)
-runapp(pressent)
+runapp(USInauguralSentiments)
  
  ```
 OR
